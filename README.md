@@ -1,5 +1,5 @@
 ### Hi 👋
-I am a Produt & Project Manager from Indonesia
+I am a Product & Project Manager from Indonesia
 
 - Worked collaboratively with Engineering, Business, Designer and CEO to research and create Requirement Document as Minimum Viable Product (MVP) such as Product Requirement Document (PRD), Customer Journey Map (CJM), Feature Prioritization, Business Model Canvas, and others.
 - Worked closely with the Resource Team, Corporate Strategy & General Affair Manager, and Development Team to research and  create Standard Operating Procedures (SOPs) for new service.
@@ -25,6 +25,3 @@ I am a Produt & Project Manager from Indonesia
 <br>
 <br>
 
-## Skills
-<img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br>
-<br>
