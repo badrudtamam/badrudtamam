@@ -1,13 +1,22 @@
 ### Hi 👋
 I am a Produt & Project Manager from Indonesia
 
-- Worked collaboratively with Product Engineering, Business Development, Lead Designer, UI/UX and Chief Executive Officer (CEO) to research and create Requirement Document as Minimum Viable Product (MVP) such as Product Requirement Document (PRD), Customer Journey Map (CJM), Feature Prioritization, Business Model Canvas, and others.
+- Worked collaboratively with Engineering, Business, Designer and CEO to research and create Requirement Document as Minimum Viable Product (MVP) such as Product Requirement Document (PRD), Customer Journey Map (CJM), Feature Prioritization, Business Model Canvas, and others.
 - Worked closely with the Resource Team, Corporate Strategy & General Affair Manager, and Development Team to research and  create Standard Operating Procedures (SOPs) for new service.
-
 - Supervised the progress of developer tasks and service on a regular basis
-
 - Led the application project team from data gathering, design, development, to releasing the application
 <br>
+
+## PORTFOLIO As a product Manager
+
+- Kodeno.id (Made an MVP as a Singgle Product Manager)
+- shorturl.at/alpAZ (Final project of Product Manager Bootcamp at Binar Academy, Revamping Cinema Booking Ticket App)
+
+## PORTFOLIO As a product Manager
+
+- Bengkel Mania (Playstore)
+- Kodegiri.com
+- Sekarlite.com
 
 ## Connect with me
 
