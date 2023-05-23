@@ -12,7 +12,7 @@ I am a Product & Project Manager from Indonesia
 - Kodeno.id (Made an MVP as a Singgle Product Manager)
 - shorturl.at/alpAZ (Final project of Product Manager Bootcamp at Binar Academy, Revamping Cinema Booking Ticket App)
 
-## PORTFOLIO As a product Manager
+## PORTFOLIO As a project Manager
 
 - Bengkel Mania (Playstore)
 - Kodegiri.com
