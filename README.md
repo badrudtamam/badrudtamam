@@ -1,7 +1,12 @@
 ### Hi 👋
-I am a frontend web Developer from Indonesia
+I am a Produt & Project Manager from Indonesia
 
-- 🔭 Working on multiple frontend project using HTML, CSS & Javascript.
+- Worked collaboratively with Product Engineering, Business Development, Lead Designer, UI/UX and Chief Executive Officer (CEO) to research and create Requirement Document as Minimum Viable Product (MVP) such as Product Requirement Document (PRD), Customer Journey Map (CJM), Feature Prioritization, Business Model Canvas, and others.
+- Worked closely with the Resource Team, Corporate Strategy & General Affair Manager, and Development Team to research and  create Standard Operating Procedures (SOPs) for new service.
+
+- Supervised the progress of developer tasks and service on a regular basis
+
+- Led the application project team from data gathering, design, development, to releasing the application
 <br>
 
 ## Connect with me
